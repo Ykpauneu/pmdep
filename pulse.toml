@@ -2,7 +2,7 @@
 name = "ee"
 publisher = "Mergevos"
 repo = "e"
-[project.dependencies]
-dependencies = [
-  'Ykpauneu/pmtest@dev',
+[requirements]
+live = [
+'Ykpauneu/pmtest@dev'
 ]
