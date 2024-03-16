@@ -4,5 +4,5 @@ publisher = "Mergevos"
 repo = "e"
 [project.dependencies]
 dependencies = [
-  'Ykpauneu/pmdep@dev',
+  'Ykpauneu/pmtest@dev',
 ]
