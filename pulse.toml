@@ -2,7 +2,3 @@
 name = "ee"
 publisher = "Mergevos"
 repo = "e"
-[requirements]
-live = [
-'Ykpauneu/pmtest@dev'
-]
