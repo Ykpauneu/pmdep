@@ -2,3 +2,6 @@
 name = "ee"
 publisher = "Mergevos"
 repo = "e"
+
+[requirements]
+live = ["Ykpauneu/pmdep2@main"]
